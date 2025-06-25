@@ -78,7 +78,6 @@ Nahid Ibna Harun
 - [ ] Add 1–2 lines of comment at the top of each `.cpp` file (e.g., what the algorithm does)
 - [ ] Push the updated `README.md`
 
-Let me know if you want a badge version or auto-generated table of contents too.
 
 
 
