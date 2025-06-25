@@ -9,14 +9,23 @@ Each algorithm is implemented in **C++**, written for clarity and performance us
 
 CP-ALGORITHM/
 ├── Sorting/
+
 │ ├── Bubble_Sort.cpp
+
 │ ├── Insertion_Sort.cpp
+
 │ ├── Selection_Sort.cpp
+
 │ ├── Merge_Sort.cpp
+
 │ └── Dutch_Flag_Algorithm.cpp
+
 ├── Number Theory/
+
 │ ├── Sieve_of_Eratosthenes.cpp
+
 ├── Algebra/
+
 │ └── Binary_Exponentiation.cpp
 
 yaml
@@ -61,11 +70,7 @@ Nahid Ibna Harun
 
 🧠 “Master the building blocks, and you'll build anything.”
 
-yaml
-Copy
-Edit
 
----
 
 ### ✅ To-Do for You:
 - [ ] Rename folders logically (`Sorting/`, `Number_Theory/`, etc.)
