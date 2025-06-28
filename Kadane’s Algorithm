@@ -1,0 +1,8 @@
+ll best=INT_MIN,sum=INT_MIN;
+for(ll i=0;i<n;i++){
+    sum=max(ar[i],sum+ar[i]);
+    best=max(sum,best);
+}
+
+
+// Kadane’s Algorithm (For finding the maximum subarray sum also for negative number)
